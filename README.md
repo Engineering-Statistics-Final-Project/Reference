@@ -2,6 +2,10 @@
 
 此 repo 為報告所使用之參考資料區
 
+## 數據來源
+
+### [Fangraphs](https://www.fangraphs.com/leaders.aspx?pos=all&stats=pit&lg=all&qual=0&type=8&season=2019&month=0&season1=2019&ind=0&team=0,ts&rost=0&age=14,58&filter=&players=0&startdate=&enddate=)
+
 ## 棒球防守名詞
 
 ## 棒球打擊名詞
