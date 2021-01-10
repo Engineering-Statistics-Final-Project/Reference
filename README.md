@@ -17,8 +17,10 @@
 
 ## 特殊數據
 
-### [WAR](https://library.fangraphs.com/misc/war/)
+### [Fangraphs WAR](https://library.fangraphs.com/misc/war/)
 
 ### [Fangraphs:打者WAR計算](https://library.fangraphs.com/war/war-position-players/)
 
 ### [Fangraphs:投手WAR計算](https://library.fangraphs.com/war/calculating-war-pitchers/)
+
+### [WAR 打者篇](https://www.sportsv.net/articles/714?page=5)
