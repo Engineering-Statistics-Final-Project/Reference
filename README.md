@@ -24,3 +24,5 @@
 ### [Fangraphs:投手WAR計算](https://library.fangraphs.com/war/calculating-war-pitchers/)
 
 ### [WAR 打者篇](https://www.sportsv.net/articles/714?page=5)
+
+### [WAR 篇](https://www.sportsv.net/articles/711?page=3)
