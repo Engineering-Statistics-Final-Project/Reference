@@ -11,3 +11,7 @@
 ### [WRC+](https://www.sportsv.net/articles/6596?page=2#article_top)
 
 ### [WRC+](https://www.sportsv.net/articles/286)
+
+## 特殊數據
+
+### [WAR](https://library.fangraphs.com/misc/war/)
